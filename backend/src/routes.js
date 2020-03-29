@@ -10,8 +10,8 @@ const routes = express.Router();
 
 // Login
 routes.post('/sessions', celebrate({
-  [Segments.QUERY]: Joi.object().keys({
-    id: Joi.number().required()
+  [Segments.BODY]: Joi.object().keys({
+    id: Joi.string().required()
   })
 }), SessionController.create);
 
