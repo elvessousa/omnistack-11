@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="BeTheHero" title="#delicinha" src="../images/logo.svg" width="250px" />
+    <img alt="BeTheHero" title="#delicinha" src="../.github/logo.svg" width="250px" />
 </p>
 
 # Backend

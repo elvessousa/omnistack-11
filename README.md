@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="Be The Hero" src="images/logo.svg" width="250px" />
+    <img alt="BeTheHero" title="Be The Hero" src=".github/logo.svg" width="250px" />
 </h1>
 
 #### Semana Omnistack 11
